@@ -25,7 +25,7 @@ docker-compose up -- build
 ```
 
 3. **Access the application**
-The application will be accessible on http://localhost:4000
+- The application will be accessible on http://localhost:4000
 
 4. **Stop the containers**
 ```
