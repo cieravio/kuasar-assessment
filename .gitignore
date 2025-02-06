@@ -1,0 +1,14 @@
+node_modules
+yarn.lock
+
+.env
+
+docker-compose.override.yml
+docker-compose.override.yaml
+postgres_data
+
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
